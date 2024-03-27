@@ -106,6 +106,7 @@ def evaluar(arbol, datos):
 # Evalua el modelo con los datos de prueba
 precision = evaluar(arbol_decision, datos_prueba)
 print(f"Precision del modelo: {precision * 100:.2f}%")
+print("Arbol de Decision:")
 
 # Funcion imprimir_arbol para mostrar los nombres de los nodos
 def imprimir_arbol(nodo, sangria=""):
