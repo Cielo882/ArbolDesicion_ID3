@@ -26,11 +26,12 @@ El código proporcionado consta de varias funciones y una clase que permiten con
 Para utilizar este código, sigue estos pasos:
 
 1. Asegúrate de tener instaladas las bibliotecas de Python necesarias, como `numpy` y `pandas`.
-2. Carga tus datos de entrenamiento y prueba en archivos CSV con el formato adecuado.
-3. Especifica los atributos y el atributo objetivo en tu conjunto de datos.
-4. Construye el árbol de decisión utilizando la función `construir_arbol`.
-5. Evalúa el modelo utilizando la función `evaluar`.
-6. Para documentación detallada revisa el reporte de esta practica anexado en el repositorio.
+2. Carga tus datos de entrenamiento y prueba en archivos CSV con el formato adecuado .
+3. Puedes usar los datos que vienen en el .zip para esta practica , solo asegurate de ubicarlos en la misma carpeta del Script
+4. Especifica los atributos y el atributo objetivo en tu conjunto de datos.
+5. Construye el árbol de decisión utilizando la función `construir_arbol`.
+6. Evalúa el modelo utilizando la función `evaluar`.
+7. Para documentación detallada revisa el reporte en .pdf de esta practica anexado en el repositorio.
 
 ## Ejemplo
 
